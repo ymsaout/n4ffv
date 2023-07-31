@@ -1,0 +1,9 @@
+baseURL: https://ymsaout.github.io/n4ffv/
+title: N4FFV - croisière
+theme: book
+defaultContentLanguage: fr
+googleAnalytics: ""
+
+# Book configuration
+disablePathToLower: true
+enableGitInfo: true
